@@ -28,7 +28,7 @@ This documentation is based on my personal experience and recollection of the pr
 
 ## Project Overview 
 
-- As a **lead consultant** from Genpact, I played a pivotal role in a comprehensive financial system migration project for a **Fortune 500** multinational corporation in the Fast-Moving Consumer Goods **(FMCG) sector**. 
+- As a **lead consultant** from one of top consulting company, I played a pivotal role in a comprehensive financial system migration project for a **Fortune 500** multinational corporation in the Fast-Moving Consumer Goods **(FMCG) sector**. 
   
 - The project focused on **migrating the client's legacy Hyperion Financial Management (HFM) system to OneStream XF**, a cutting-edge platform for financial consolidation, reporting, planning, budgeting, and forecasting.
 
