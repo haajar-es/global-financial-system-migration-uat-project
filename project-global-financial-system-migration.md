@@ -29,7 +29,7 @@ This documentation is based on my personal experience and recollection of the pr
 
 ## Project Overview 
 
-- As the **Lead F&A Consultant**, I played a pivotal role in a comprehensive financial system migration for a **Fortune 500 client in the Fast-Moving Consumer Goods (FMCG)** sector.
+- As the **Lead F&A Consultant**, I played a pivotal role in a comprehensive financial system migration for a **Fortune 500 client in the consumer goods industry**.
   
 - The project involved **migrating the client's legacy Hyperion Financial Management (HFM) system to OneStream XF**, a cutting-edge platform for financial consolidation, reporting, planning, budgeting, and forecasting.
 
