@@ -3,7 +3,7 @@
 🔎 **Refer project details at [here](project-global-financial-system-migration.md).**
 
 ## Overview:
-   - Global financial system migration project for a **Fortune 500 client in FMCG sector**.
+   - Global financial system migration project for a **Fortune 500 client in the consumer goods industry, with significant market presence in lifestyle and personal care segments.**
    - Transition from legacy **Hyperion Financial Management (HFM) to OneStream XF.**
    - As Lead F&A and focal point for the Consulting team on the project included:
      - Directly **managed and led User Acceptance Testing (UAT)** efforts for **5 key countries in the APAC region**, verifying that financial data in **OneStream reconciled with SAP**.
